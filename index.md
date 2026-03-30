@@ -2,9 +2,14 @@
 
 I'll try to give you a few thing to visit in Catania, as a fun finding game!
 
-If you're ready, put on your baskets and let's go!!
+If you're ready, put on your sneakers and let's go!!
 
+> **Summary**
+> * [Architectural details](#architectural-details)
+> * [Statue] (#statue)
+> * [Clock] (#clock)
 
+---
 ## Architectural details
 ![spiderman](docs/assets/images_cta/architectural_details.jpg)
 <details>
@@ -57,14 +62,3 @@ If you're ready, put on your baskets and let's go!!
 </details>
 
 
-
-<style>
-  #hide-logic:checked + .content {
-    display: none;
-  }
-</style>
-
-<input type="checkbox" id="hide-logic"> Check to hide the text below
-<div class="content">
-  <p>I am a section that can be hidden!</p>
-</div>
