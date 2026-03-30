@@ -7,7 +7,7 @@ If you're ready, put on your sneakers and let's go!!
 > **Summary**
 > * [Architectural details](#architectural-details)
 > * [Statue](#statue)
-> * [Clock](#Clock)
+> * [Clock](#clock)
 > * [Seaside](#seaside)
 > * [Spiderman](#spiderman)
 > * [U Liotru](#u-liotru)
