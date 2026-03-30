@@ -9,14 +9,14 @@ If you're ready, put on your baskets and let's go!!
 ![spiderman](docs/assets/images_cta/architectural_details.jpg)
 <details>
 	<summary><i>Click here to have a hint to find this place!</i></summary>
-	Have you seen the promenade south from the <b>central station**?
+	Have you seen the promenade south from the <b>central station</b>?
 </details>
 
 ## Statue
 ![spiderman](docs/assets/images_cta/bellini.jpg)
 <details>
 	<summary><i>Click here to have a hint to find this place!</i></summary>
-	It seems to be on the roof of <b>a very prestigious place**...
+	It seems to be on the roof of <b>a very prestigious place</b>...
 </details>
 
 
@@ -32,14 +32,14 @@ If you're ready, put on your baskets and let's go!!
 ![spiderman](docs/assets/images_cta/seaside.jpg)
 <details>
 	<summary><i>Click here to have a hint to find this place!</i></summary>
-	Well, there's the <b>sea**... and <b>no railroads**!
+	Well, there's the <b>sea</b>... and <b>no railroads</b>!
 </details>
 
 ## Spiderman
 ![spiderman](docs/assets/images_cta/spiderman.jpg)
 <details>
 	<summary><i>Click here to have a hint to find this place!</i></summary>
-	When you see <b>4 building looking the same**, look up!
+	When you see <b>4 building looking the same</b>, look up!
 </details>
 
 ## U Liotru
@@ -53,6 +53,6 @@ If you're ready, put on your baskets and let's go!!
 ![spiderman](docs/assets/images_cta/umbrellas.jpg)
 <details>
 	<summary><i>Click here to have a hint to find this place!</i></summary>
-	Near the central square, find the *historical narrow streets* and... look up!
+	Near the central square, find the <b>historical narrow streets</b> and... look up!
 </details>
 
