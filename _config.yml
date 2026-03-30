@@ -2,7 +2,7 @@ title: "Sicilian Trip with Mathis"
 description: ""
 show_downloads: false
 google_analytics: 
-theme: jekyll-theme-merlot
+theme: jekyll-theme-minimal
 
 header_pages:
  - index.md
