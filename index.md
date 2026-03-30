@@ -1,5 +1,6 @@
 ---
-title: Sicilia tour! 
+layout: default
+title: A day in Catania 
 ---
 
 # Visit Catania
