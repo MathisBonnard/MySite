@@ -19,12 +19,17 @@ If you're ready, put on your sneakers and let's go!!
 > * [Umbrellas](#umbrellas)
 
 ---
+<br>
+<br>
 ## Architectural details
 ![architecural details](docs/assets/images_cta/architectural_details.jpg)
 <details>
 	<summary><i>Click here to have a hint to find this place!</i></summary>
 	Have you seen the promenade south from the <b>central station</b>?
 </details>
+
+<br>
+<br>
 
 ## Statue
 ![statue](docs/assets/images_cta/bellini.jpg)
@@ -33,6 +38,8 @@ If you're ready, put on your sneakers and let's go!!
 	It seems to be on the roof of <b>a very prestigious place</b>...
 </details>
 
+<br>
+<br>
 
 ## Clock
 ![clock](docs/assets/images_cta/clock.jpg)
@@ -41,6 +48,8 @@ If you're ready, put on your sneakers and let's go!!
 	There are <b>plants</b> around this clock.
 </details>
 
+<br>
+<br>
 
 ## Seaside
 ![seasiden](docs/assets/images_cta/seaside.jpg)
@@ -49,6 +58,9 @@ If you're ready, put on your sneakers and let's go!!
 	Well, there's the <b>sea</b>... and <b>no railroads</b>!
 </details>
 
+<br>
+<br>
+
 ## Spiderman
 ![spiderman](docs/assets/images_cta/spiderman.jpg)
 <details>
@@ -56,12 +68,18 @@ If you're ready, put on your sneakers and let's go!!
 	When you see <b>4 building looking the same</b>, look up!
 </details>
 
+<br>
+<br>
+
 ## U Liotru
 ![U Liotru](docs/assets/images_cta/u_liotru.jpg)
 <details>
 	<summary><i>Click here to have a hint to find this place!</i></summary>
 	<b>Hard to miss this one...</b> Have you considered following the flow of people in the center of the city?
 </details>
+
+<br>
+<br>
 
 ## Umbrellas
 ![umbrellas](docs/assets/images_cta/umbrellas.jpg)

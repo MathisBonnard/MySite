@@ -3,3 +3,8 @@ description: ""
 show_downloads: false
 google_analytics: 
 theme: jekyll-theme-minimal
+
+header_pager :
+ - index.md
+ - catania_food.md
+ - taormina.md
