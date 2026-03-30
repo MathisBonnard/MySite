@@ -4,7 +4,7 @@ show_downloads: false
 google_analytics: 
 theme: jekyll-theme-minimal
 
-header_pager :
+header_pages:
  - index.md
  - catania_food.md
  - taormina.md

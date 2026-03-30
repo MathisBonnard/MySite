@@ -3,6 +3,15 @@ layout: default
 title: A day in Catania 
 ---
 
+> **Menu of activities**
+> * [Visit Catania](#visit-catania)
+> * [Eat in Catania](catania_food.md)
+> * [Taormina](taormina.md)
+
+---
+
+
+
 # Visit Catania
 
 I'll try to give you a few thing to visit in Catania, as a fun finding game!
