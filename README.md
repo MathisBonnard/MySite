@@ -1,2 +1,2 @@
-# MySite-TEST
-Hosting my website with randoms stuffs
+# MySite
+Welcome to my website with randoms stuffs
