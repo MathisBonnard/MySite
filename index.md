@@ -56,3 +56,15 @@ If you're ready, put on your baskets and let's go!!
 	Near the central square, find the <b>historical narrow streets</b> and... look up!
 </details>
 
+
+
+<style>
+  #hide-logic:checked + .content {
+    display: none;
+  }
+</style>
+
+<input type="checkbox" id="hide-logic"> Check to hide the text below
+<div class="content">
+  <p>I am a section that can be hidden!</p>
+</div>
