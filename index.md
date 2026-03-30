@@ -6,8 +6,8 @@ If you're ready, put on your sneakers and let's go!!
 
 > **Summary**
 > * [Architectural details](#architectural-details)
-> * [Statue] (#statue)
-> * [Clock] (#clock)
+> * [Statue] (#Statue)
+> * [Clock] (#Clock)
 
 ---
 ## Architectural details
