@@ -6,19 +6,23 @@ If you're ready, put on your sneakers and let's go!!
 
 > **Summary**
 > * [Architectural details](#architectural-details)
-> * [Statue] (#Statue)
-> * [Clock] (#Clock)
+> * [Statue](#statue)
+> * [Clock](#Clock)
+> * [Seaside](#seaside)
+> * [Spiderman](#spiderman)
+> * [U Liotru](#u-liotru)
+> * [Umbrellas](#umbrellas)
 
 ---
 ## Architectural details
-![spiderman](docs/assets/images_cta/architectural_details.jpg)
+![architecural details](docs/assets/images_cta/architectural_details.jpg)
 <details>
 	<summary><i>Click here to have a hint to find this place!</i></summary>
 	Have you seen the promenade south from the <b>central station</b>?
 </details>
 
 ## Statue
-![spiderman](docs/assets/images_cta/bellini.jpg)
+![statue](docs/assets/images_cta/bellini.jpg)
 <details>
 	<summary><i>Click here to have a hint to find this place!</i></summary>
 	It seems to be on the roof of <b>a very prestigious place</b>...
@@ -26,7 +30,7 @@ If you're ready, put on your sneakers and let's go!!
 
 
 ## Clock
-![spiderman](docs/assets/images_cta/clock.jpg)
+![clock](docs/assets/images_cta/clock.jpg)
 <details>
 	<summary><i>Click here to have a hint to find this place!</i></summary>
 	There are <b>plants</b> around this clock.
@@ -34,7 +38,7 @@ If you're ready, put on your sneakers and let's go!!
 
 
 ## Seaside
-![spiderman](docs/assets/images_cta/seaside.jpg)
+![seasiden](docs/assets/images_cta/seaside.jpg)
 <details>
 	<summary><i>Click here to have a hint to find this place!</i></summary>
 	Well, there's the <b>sea</b>... and <b>no railroads</b>!
@@ -48,14 +52,14 @@ If you're ready, put on your sneakers and let's go!!
 </details>
 
 ## U Liotru
-![spiderman](docs/assets/images_cta/u_liotru.jpg)
+![U Liotru](docs/assets/images_cta/u_liotru.jpg)
 <details>
 	<summary><i>Click here to have a hint to find this place!</i></summary>
 	<b>Hard to miss this one...</b> Have you considered following the flow of people in the center of the city?
 </details>
 
 ## Umbrellas
-![spiderman](docs/assets/images_cta/umbrellas.jpg)
+![umbrellas](docs/assets/images_cta/umbrellas.jpg)
 <details>
 	<summary><i>Click here to have a hint to find this place!</i></summary>
 	Near the central square, find the <b>historical narrow streets</b> and... look up!
