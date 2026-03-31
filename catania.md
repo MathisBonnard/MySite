@@ -1,3 +1,11 @@
+---
+> **Menu of activities**
+> * [Main page](index.md)
+> * [Eat in Catania](catania_food.md)
+> * [Taormina](taormina.md)
+> * [Siracusa](siracusa.md)
+
+---
 
 # Visit Catania
 

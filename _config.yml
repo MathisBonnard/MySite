@@ -2,7 +2,7 @@ title: "Sicilian Trip with Mathis"
 description: ""
 show_downloads: false
 google_analytics: 
-remote_theme: cotes2020/jekyll-theme-chirpy
+theme: jekyll-theme-minimal
 
 lang: en
 timezone: Europe/Rome
@@ -14,14 +14,3 @@ header_pages:
  - taormina.md
  - siracusa.md
 
-tabs:
--title: Index
-url: /
--title: Catania
-url: /catania/
--title: Catanian Food
-url: /catania_food/
--title: Taormina
-url: /taormina/
--title: Siracusa
-url: /siracusa/

@@ -11,3 +11,6 @@ title: Welcome to Sicily!
 
 ---
 
+This website is here to help you find your way through Sicily!
+
+Everything given here is only advices and does not stand for ground truth, so please feel free to vibe Sicily your own way!
