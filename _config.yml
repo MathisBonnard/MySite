@@ -15,9 +15,9 @@ header_pages:
  - siracusa.md
 
 tabs:
- - title: Index
-  url: /
- - title: Catania
+-title: Index
+url: /
+-title: Catania
   url: /catania/
  - title: Catanian Food
   url: /catania_food/
