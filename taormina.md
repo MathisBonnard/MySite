@@ -32,6 +32,8 @@ Departure are every 30 (or 15!) minutes and you don't have to take off the bus b
 The trip is offered by either interbus or Etna trasporti and cost around 5€ one way.
 
 
+<br>
+
 # What to see and visit
 
 From the bus terminal, continue on the way up, following the flow of tourists. When arrived in the city center, take all you time to enjoy the narrow streets as well as the main alley!
@@ -45,12 +47,15 @@ Take a tour in the public park [<i>Villa Comunale di Taornìmina</i>](https://ma
 
 If you want to spend even more time in this nice area, you can take the cable car (it's not far from the bus terminal) to go at the sea level. From there you can either spend time on the stone beach or go on the <i>Isola Bella</i>. Round trip is 10€ using the cable car.
 
+<br>
+
 # Where to eat
 
 tl;dr: idk
 
 Since I don't go very often in Taormina, I dont't know. But I'm sure you can find a lovely restaurant or bakery to make sure you don't starve
 
+<br>
 
 # City map
 
