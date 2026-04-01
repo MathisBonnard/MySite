@@ -42,7 +42,7 @@ The ancient theater is very nice to visit with the Etna that can be seen in the 
 
 If you are in a good shape and are lucky enough to have a clear view on the sea, I advise you to climb up in the direction of [the castle](https://maps.app.goo.gl/15iaQMvgKitBZTuC9).
 
-Take a tour in the public park [<i>Villa Comunale di Taornìmina</i>](https://maps.app.goo.gl/DEmGjwC2Lj7ZSB7b6)
+Take a tour in the public park [<i>Villa Comunale di Taormina</i>](https://maps.app.goo.gl/DEmGjwC2Lj7ZSB7b6)
 
 
 If you want to spend even more time in this nice area, you can take the cable car (it's not far from the bus terminal) to go at the sea level. From there you can either spend time on the stone beach or go on the <i>Isola Bella</i>. Round trip is 10€ using the cable car.
