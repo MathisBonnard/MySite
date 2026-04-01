@@ -28,7 +28,7 @@ You might have heard about this city if you've seen the second season of White L
 
 Since the city is a bit high, I do not recommand taking the train. Regional busses can bring you there.
 
-Departure are every 30 (or 15!) minutes and you don't have to take off the bus before the last stop.
+Departure are every 30 (or 15!) minutes and you don't have to take off the bus before the last stop. There is around 1 hour of bus, but it can get worse depending on the traffic...
 The trip is offered by either interbus or Etna trasporti and cost around 5€ one way.
 
 
@@ -55,4 +55,4 @@ Since I don't go very often in Taormina, I dont't know. But I'm sure you can fin
 # City map
 
 If it works, you should find the map here:
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28745.854011104046!2d15.266571542069029!3d37.85489280575016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x131411a191a0d9b5%3A0x74a19a34d616e949!2s98039%20Taormine%2C%20Messine!5e1!3m2!1sfr!2sit!4v1775064972520!5m2!1sfr!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28745.854011104046!2d15.266571542069029!3d37.85489280575016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x131411a191a0d9b5%3A0x74a19a34d616e949!2s98039%20Taormine%2C%20Messine!5e1!3m2!1sfr!2sit!4v1775064972520!5m2!1sfr!2sit" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
