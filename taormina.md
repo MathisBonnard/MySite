@@ -55,6 +55,13 @@ tl;dr: idk
 
 Since I don't go very often in Taormina, I dont't know. But I'm sure you can find a lovely restaurant or bakery to make sure you don't starve
 
+
+<br>
+# Weather forecast
+
+How's the weather today and tomorrow? Check bellow!
+<iframe src="https://api.wo-cloud.com/content/widget/?geoObjectKey=13784721&language=it&region=IT&timeFormat=HH:mm&windUnit=kmh&systemOfMeasurement=metric&temperatureUnit=celsius" name="CW2" scrolling="no" width="100%" height="318" frameborder="0" style="border: 1px solid #A0A0A0;border-radius: 10px"></iframe>
+
 <br>
 
 # City map

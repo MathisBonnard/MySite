@@ -46,6 +46,13 @@ Unfortunately I can't advise you a great place to eat because of my limited know
 
 I you want an ice cream, Don Peppinu is a "ok-for-your-money" deal (I know it because we have one also in Catania).
 
+
+<br>
+# Weather forecast
+
+Here is the forecast for the next days:
+<iframe src="https://api.wo-cloud.com/content/widget/?geoObjectKey=4885612&language=it&region=IT&timeFormat=HH:mm&windUnit=kmh&systemOfMeasurement=metric&temperatureUnit=celsius" name="CW2" scrolling="no" width="100%" height="318" frameborder="0" style="border: 1px solid #A0A0A0;border-radius: 10px"></iframe>
+
 <br>
 
 # City map
@@ -54,4 +61,3 @@ If it works, you should find the map here:
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d116182.84738792713!2d15.188495825219256!3d37.07912034888504!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1313ce8da28bdf79%3A0xd1736683b2c58b87!2s96100%20Syracuse!5e1!3m2!1sfr!2sit!4v1775069558777!5m2!1sfr!2sit" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
-...WiP for siracusa...
